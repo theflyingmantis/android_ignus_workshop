@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_of_name">20dp</dimen>
+    <dimen name="textview_name_height">20sp</dimen>
+</resources>

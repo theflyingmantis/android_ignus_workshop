@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidIgnusWorkshop</string>
+    <string name="password_string_resource">Password</string>
+    <string name="enter_your_password_here">Enter your Password here</string>
+</resources>
